@@ -1,4 +1,4 @@
-### Hi there 👋, Hi 👋, I'm Nikkon Mondal
+# Hi 👋, I'm Nikkon Mondal
 #### MERN Stack Developer || Web Developer
 ![MERN Stack Developer || Web Developer](https://media.licdn.com/dms/image/D5616AQEzrEAjwuugGQ/profile-displaybackgroundimage-shrink_350_1400/0/1688673630634?e=1694649600&v=beta&t=YWtp1lKIT_XAQtpwJRyQoMpt0SEQ9Zg736eTqV2VhN4)
 
